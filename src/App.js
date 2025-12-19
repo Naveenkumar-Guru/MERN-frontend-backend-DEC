@@ -1,9 +1,10 @@
 import "./App.css";
+import GoalList from "./components/GoalList";
 
 function App() {
   return (
     <div>
-      <h1>App</h1>
+      <GoalList />
     </div>
   );
 }
