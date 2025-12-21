@@ -1,0 +1,29 @@
+.student-container {
+  padding: 20px;
+  max-width: 750px;
+  margin: 20px auto;
+  background-color: #5daaf7;
+  border-radius: 8px;
+}
+
+.student-title {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.student-card {
+  background-color: #ffffff;
+
+  /* background-color: #ffffff; */
+  padding: 12px 16px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.student-card p {
+  margin: 6px 0;
+  color: #0f0d0d;
+  font-size: 15px;
+}
